@@ -1,0 +1,6 @@
+C:\Users\Яна\source\repos\University\UniversityClassLibrary\bin\Debug\UniversityClassLibrary.dll
+C:\Users\Яна\source\repos\University\UniversityClassLibrary\bin\Debug\UniversityClassLibrary.pdb
+C:\Users\Яна\source\repos\University\UniversityClassLibrary\obj\Debug\UniversityClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Яна\source\repos\University\UniversityClassLibrary\obj\Debug\UniversityClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Яна\source\repos\University\UniversityClassLibrary\obj\Debug\UniversityClassLibrary.dll
+C:\Users\Яна\source\repos\University\UniversityClassLibrary\obj\Debug\UniversityClassLibrary.pdb
